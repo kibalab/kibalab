@@ -2,7 +2,10 @@
 
 # ✨!**KIBA** _NullExeption_!✨
 
+Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 
+사용언어
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibalab)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
 
 <!--
 **kibalab/kibalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
