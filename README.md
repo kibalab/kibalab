@@ -1,4 +1,4 @@
-![title](https://user-images.githubusercontent.com/31209389/149951826-5be2789e-ee44-485a-8fd7-4a2f4f5b7ef3.png)
+![title](https://user-images.githubusercontent.com/31209389/149953754-160d2d27-818b-408c-9fd0-aac07a25ad4a.png)
 <br>
   [![그룹 2](https://user-images.githubusercontent.com/31209389/149937763-4fb0f82c-a9e9-4dea-b1dd-a977aff400cb.png)](https://k13b.booth.pm/)
   [![그룹 3](https://user-images.githubusercontent.com/31209389/149950795-257c13eb-cf99-4f27-837c-d31da69158d5.png)](https://twitter.com/kjh030529)
