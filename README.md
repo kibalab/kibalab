@@ -1,5 +1,5 @@
 ![title](https://user-images.githubusercontent.com/31209389/149924763-5b571052-3357-42ca-a791-f421427472be.png)<br>
-[![그룹 2](https://user-images.githubusercontent.com/31209389/149937186-69773965-3b5c-4fed-ab13-066bc264ce6b.png)](https://k13b.booth.pm/)
+  [![그룹 2](https://user-images.githubusercontent.com/31209389/149937186-69773965-3b5c-4fed-ab13-066bc264ce6b.png)](https://k13b.booth.pm/)
 
 # ✨!**KIBA** _NullExeption_!✨
 
