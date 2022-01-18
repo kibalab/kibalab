@@ -1,5 +1,4 @@
-![title](https://user-images.githubusercontent.com/31209389/149924671-e75cf0d2-f496-4eba-bd53-b246b9f0480c.png)
-
+![title](https://user-images.githubusercontent.com/31209389/149924763-5b571052-3357-42ca-a791-f421427472be.png)
 
 # ✨!**KIBA** _NullExeption_!✨
 
