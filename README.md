@@ -17,7 +17,7 @@ Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 유튜버 대월향 컨텐츠 | 방송용 버츄얼 프로그램 및 VRChat 월드 | 완료
 WCS 행사 VR컨텐츠 | [Tamakoshi](https://www.tamakoshi.com/)와 콜라보로 진행한 VR파칭코 체험 컨텐츠 월드 | 완료
 Kyubi클로젯 | VRChat용 아바타 개발 작업 | 완료 및 진행중
-키나가이 샵 | VRChat Virtual Market Winter 행사용 부스 | 완료
+키나가이 샵 | VRChat [Virtual Market Winter](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 행사용 부스 | 완료
 니지산지KR | [버튜버 이로하](https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg), 컨텐츠용 월드 | 일시중단
 용비어천가VR | VRChat 용비어천가 행사 월드 제작 | 완료
 클럽 컬러VR | VRChat CLUBCOLOR 행사 월드 제작 | 완료
