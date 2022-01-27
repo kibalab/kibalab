@@ -20,6 +20,7 @@ WCS 행사 VR컨텐츠 | [Tamakoshi](https://www.tamakoshi.com/)와 콜라보로
 Kyubi클로젯 | VRChat용 아바타 개발 작업 | 완료 및 진행중
 키나가이 샵 | VRChat [Virtual Market Winter](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 행사용 부스 | 완료
 니지산지KR | [버튜버 이로하](https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg), 컨텐츠용 월드 | 일시중단
+하리노프VR | VRChat 이벤트 월드 제작 | 완료
 용비어천가VR | VRChat 용비어천가 행사 월드 제작 | 완료
 클럽 컬러VR | VRChat CLUBCOLOR 행사 월드 제작 | 완료
 Aiobahn | [작곡가 아이오반](https://librewiki.net/wiki/Aiobahn)의 VRChat용 아바타 | 완료
