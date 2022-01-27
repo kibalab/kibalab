@@ -24,7 +24,7 @@ Kyubi클로젯 | VRChat용 아바타 개발 작업 | 완료 및 진행중
 Aiobahn | [작곡가 아이오반](https://librewiki.net/wiki/Aiobahn)의 VRChat용 아바타 | 완료
 방송인 연말파티 | [유튜버 앵그리보이](https://www.youtube.com/channel/UCT7AWhMjf_5RUEHsFC6Vyrg) 주최, 유튜버/스트리머 연말파티 컨텐츠 월드 제작 및 진행 | 완료
 플렌비디자인 | [플렌비디자인](https://www.planb.ac/book) 의뢰 | 진행중
-유튜버 라이유 | [유튜버 라디유](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 광고 컨텐츠용 월드 제작 | 진행중
+유튜버 라이유 | [유튜버 라디유](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 광고 컨텐츠용 영화관 월드 제작 | 완료
 
 <!--
 **kibalab/kibalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
