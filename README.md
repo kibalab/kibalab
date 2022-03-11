@@ -26,6 +26,7 @@ Kyubi클로젯 | VRChat용 아바타 개발 및 유지보수 작업 (Koyuki, Kok
 Aiobahn | [작곡가 아이오반](https://librewiki.net/wiki/Aiobahn)의 VRChat용 아바타 | 완료
 방송인 연말파티 | [유튜버 앵그리보이](https://www.youtube.com/channel/UCT7AWhMjf_5RUEHsFC6Vyrg) 주최, 유튜버/스트리머 연말파티 컨텐츠 월드 제작 및 진행 | 완료
 플렌비디자인 | [플렌비디자인](https://www.planb.ac/book) 의뢰 | 진행중
+플렌비디자인 | [플렌비디자인](https://www.planb.ac/book) 강연 "VRChat으로 알아보는 메타버스 컨텐츠 소개" | -
 유튜버 라디유 | [유튜버 라디유](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 광고 컨텐츠용 영화관 월드 제작 | 완료
 J Major, 성우 서유리 | [유튜버 로나로나땅](https://www.youtube.com/channel/UCcMiI7JHjS2ONfV2PBuUabQ) 촬영용 3D컨텐츠 제작 | 준비중
 유튜버 챠밍조 | [유튜버 챠밍조](https://www.youtube.com/c/CharmingJo%EC%A1%B0%EB%A7%A4%EB%A0%A5) 촬영용 월드 제작 | 준비중
