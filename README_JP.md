@@ -4,7 +4,7 @@
   [![그룹 3](https://user-images.githubusercontent.com/31209389/149950795-257c13eb-cf99-4f27-837c-d31da69158d5.png)](https://twitter.com/kjh030529)
   [![그룹 4](https://user-images.githubusercontent.com/31209389/149951275-9ec21193-cece-4500-baaa-28acff66e113.png)](https://steamcommunity.com/id/kjh030529/)
 
-# ✨!**KIBA** _NullExeption_!✨
+# ✨!**KIBA** _NullException_!✨
 
 Kim Jin Hyeok - 開発が好きな大学生です！
 
