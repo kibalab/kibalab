@@ -8,6 +8,8 @@
 
 Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 
+**1 Day 1 Commit/Push 하는중** ``( 2022 4/3~ )``
+
 ### 💬깃헙 활동<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibalab)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
 
