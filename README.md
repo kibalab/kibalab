@@ -13,7 +13,12 @@ Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 ### 💬깃헙 활동<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibalab)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
 
+<details><summary>
+
 ### 🌱 진행한 의뢰 프로젝트
+
+</summary>
+      
 이름|내용|상태
 ---|---|---
 유튜버 대월향 컨텐츠 | 방송용 버츄얼 프로그램 및 선물 개봉 컨텐츠(2)등 VRChat 월드 | 완료
@@ -34,7 +39,15 @@ Aiobahn | [작곡가 아이오반](https://librewiki.net/wiki/Aiobahn)의 VRChat
 J Major, 성우 서유리 | [유튜버 로나로나땅](https://www.youtube.com/channel/UCcMiI7JHjS2ONfV2PBuUabQ) 촬영용 3D컨텐츠 제작 | 중단
 유튜버 챠밍조 | [유튜버 챠밍조](https://www.youtube.com/c/CharmingJo%EC%A1%B0%EB%A7%A4%EB%A0%A5) 촬영용 월드 제작 | 준비중
 
+</details>
+
+<details><summary>
+      
 ### 👯 참여 또는 주관힌 팀 프로젝트
+
+</summary>
+<ul>
+
 이름|소개|포지션
 ---|---|---
 IY MMD WORLD | VRCHAT 아바타에 대응하여 MMD를 동작하는 시스템/월드 | 기술지원
@@ -45,11 +58,22 @@ CHAMCHI CONSOLE, K13A_UdonConsole | VRChat에서 월드 개발 효율을 개선�
 Village_Hall | 시골의 경로당을 구현한 실사 그래픽 3D 맵 | 시스템개발, 라이팅
 KIBAEMON, KIBATION | 디스코드 채팅봇 서비스 | 메인 시스템 개발
 
+</ul>  
+</details>
+
+<details><summary>
+  
 ### 😄 진행한 개인 프로젝트
 
+</summary>
+<ul>
+  
 이름|소개
 ---|---
 준비중 | 준비중 
+  
+</ul>  
+</details>
 
 <!--
 **kibalab/kibalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
