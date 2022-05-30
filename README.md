@@ -15,7 +15,7 @@ Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 
 <details><summary>
 
-### 🌱 진행한 의뢰 프로젝트
+### 🌱 진행한 의뢰 프로젝트 [눌러서 펼치기]
 
 </summary>
       
@@ -44,7 +44,7 @@ J Major, 성우 서유리 | [유튜버 로나로나땅](https://www.youtube.com/
 
 <details><summary>
       
-### 👯 참여 또는 주관힌 팀 프로젝트
+### 👯 참여 또는 주관힌 팀 프로젝트 [눌러서 펼치기]
 
 </summary>
 <ul>
@@ -64,7 +64,7 @@ KIBAEMON, KIBATION | 디스코드 채팅봇 서비스 | 메인 시스템 개발
 
 <details><summary>
   
-### 😄 진행한 개인 프로젝트
+### 😄 진행한 개인 프로젝트 [눌러서 펼치기]
 
 </summary>
 <ul>
