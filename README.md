@@ -8,7 +8,12 @@
 
 Kim Jin Hyeok - 개발을 좋아하는 학생 입니다!
 
-**1 Day 1 Commit/Push 최대한 ** ``( 2022 4/3~ )``
+* 1 Day 1 Commit/Push 최대한 하는중 ``( 2022 4/3~ )``
+1. README 작성으로만 하루 때우지 않기
+2. 쓰레기 더미파일 커밋으로 하루 때우지 않기
+3. 할일 있으면 주저하지 않고 하기
+4. 까먹지 말고 기능/레벨 단위로 끊어서 커밋하기
+5. 파일용량 커져서 애먹기전에 그때그때 푸시하기
 
 ### 💬깃헙 활동<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibalab)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=cobalt)
