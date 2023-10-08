@@ -47,6 +47,7 @@ Aiobahn | [작곡가 아이오반](https://librewiki.net/wiki/Aiobahn)의 VRChat
 유튜버 라디유 | [유튜버 라디유](https://www.youtube.com/channel/UC44QE3DVUuDrhUC5yp4zRYQ) 광고 컨텐츠용 영화관 월드 제작 | 완료
 J Major, 성우 서유리 | [유튜버 로나로나땅](https://www.youtube.com/channel/UCcMiI7JHjS2ONfV2PBuUabQ) 촬영용 3D컨텐츠 제작 | 중단
 유튜버 챠밍조 | [유튜버 챠밍조](https://www.youtube.com/c/CharmingJo%EC%A1%B0%EB%A7%A4%EB%A0%A5) 촬영용 월드 제작 | 준비중
+유튜버 대월향 x HololiveEN | [Twitter](https://twitter.com/aroma_great/status/1707368235438678099) 대월향과 HololiveEN의 4인 콜라보 한국어 수업 컨텐츠용 월드 제작 | 완료
 
 </details>
 
